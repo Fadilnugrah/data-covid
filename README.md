@@ -5,4 +5,4 @@ informasi data covid indonesia
 > __$__ pip3 install prettytable</br>
 > __$__ clone repo ini</br>
 > jalankan program
-
+![gambar](img/gambar.jpg)
